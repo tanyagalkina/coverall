@@ -2,7 +2,7 @@
 name = "hello-world-rust"
 version = "0.1.0"
 edition = "2021"
-description = "Dumma project to test coveralls"
+description = "Description"
 license = "tanya"
 documentation = "http://localhost:8080"
 homepage = "http://localhost:8080"
