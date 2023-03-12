@@ -200,15 +200,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "hello-world-rust"
-version = "0.1.3"
-dependencies = [
- "assert_fs",
- "derive_more",
- "rayon",
-]
-
-[[package]]
 name = "hermit-abi"
 version = "0.2.6"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -501,6 +492,15 @@ checksum = "3fdd6f064ccff2d6567adcb3873ca630700f00b5ad3f060c25b5dcfd9a4ce152"
 dependencies = [
  "cfg-if",
  "once_cell",
+]
+
+[[package]]
+name = "try-to-release-me"
+version = "0.1.3"
+dependencies = [
+ "assert_fs",
+ "derive_more",
+ "rayon",
 ]
 
 [[package]]
