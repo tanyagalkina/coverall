@@ -3,11 +3,11 @@ name = "hello-world-rust"
 version = "0.1.0"
 edition = "2021"
 description = "Dumma project to test coveralls"
-license = ""
-license-file = ""
-documentation = ""
-homepage = ""
-repository = ""
+license = "tanya"
+license-file = "license.txt"
+documentation = "http://localhost:8080"
+homepage = "http://localhost:8080"
+repository = "http://localhost:8080"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
