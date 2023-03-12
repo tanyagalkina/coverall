@@ -2,7 +2,7 @@
 name = "hello-world-rust"
 version = "0.1.0"
 edition = "2021"
-description = ""
+description = "Dumma project to test coveralls"
 license = ""
 license-file = ""
 documentation = ""
