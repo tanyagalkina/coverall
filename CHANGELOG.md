@@ -13,6 +13,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
  - <csr-id-392aecd02928b5bc16672dcb0ece1a6b587bcea1/> Just started with glint , hehe
 
+### Bug Fixes
+
+ - <csr-id-8cf84c0fc9c80b23cf8a852d1845ca28c79a3880/> fixed booring comments
+   no context
+   
+   #42 issue on comments
+
 ### Commit Statistics
 
 <csr-read-only-do-not-edit/>
@@ -28,6 +35,36 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
+    - Fixed booring comments ([`8cf84c0`](https://github.com/tanyagalkina/coverall/commit/8cf84c0fc9c80b23cf8a852d1845ca28c79a3880))
+</details>
+
+## 0.1.8 (2023-03-14)
+
+### Chore
+
+ - <csr-id-6ec14f09b43c9151140ac972d1c335ec26b46839/> Release try-to-release-me version 0.1.8
+
+### Other
+
+ - <csr-id-392aecd02928b5bc16672dcb0ece1a6b587bcea1/> Just started with glint , hehe
+
+### Commit Statistics
+
+<csr-read-only-do-not-edit/>
+
+ - 3 commits contributed to the release.
+ - 2 commits were understood as [conventional](https://www.conventionalcommits.org).
+ - 0 issues like '(#ID)' were seen in commit messages
+
+### Commit Details
+
+<csr-read-only-do-not-edit/>
+
+<details><summary>view details</summary>
+
+ * **Uncategorized**
+    - Release try-to-release-me version 0.1.8 ([`6ec14f0`](https://github.com/tanyagalkina/coverall/commit/6ec14f09b43c9151140ac972d1c335ec26b46839))
+    - Hehe ([`f993e9d`](https://github.com/tanyagalkina/coverall/commit/f993e9d674526ca2610474aa1e7505114b3212d5))
     - Just started with glint , hehe ([`392aecd`](https://github.com/tanyagalkina/coverall/commit/392aecd02928b5bc16672dcb0ece1a6b587bcea1))
 </details>
 
