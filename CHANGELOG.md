@@ -5,13 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## v0.1.6 (2023-03-14)
+## Unreleased
 
 ### Commit Statistics
 
 <csr-read-only-do-not-edit/>
 
- - 2 commits contributed to the release.
+ - 1 commit contributed to the release.
  - 0 commits were understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
@@ -22,8 +22,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
+    - Current vertion in manifest file is 0.1.6 ([`167c9d1`](https://github.com/tanyagalkina/coverall/commit/167c9d10f77fd0c8c6c48709040221e60374bf70))
+</details>
+
+## v0.1.6 (2023-03-14)
+
+### Commit Statistics
+
+<csr-read-only-do-not-edit/>
+
+ - 5 commits contributed to the release.
+ - 0 commits were understood as [conventional](https://www.conventionalcommits.org).
+ - 0 issues like '(#ID)' were seen in commit messages
+
+### Commit Details
+
+<csr-read-only-do-not-edit/>
+
+<details><summary>view details</summary>
+
+ * **Uncategorized**
+    - Adjusting changelogs prior to release of try-to-release-me v0.1.6 ([`2b272a8`](https://github.com/tanyagalkina/coverall/commit/2b272a81833f4d55cbb04fe6a61ae28b57a834fe))
     - Add changelog ([`225e81f`](https://github.com/tanyagalkina/coverall/commit/225e81fb3f9bd17673f82462aa7d4718dac918eb))
     - Comment ([`3fa56a1`](https://github.com/tanyagalkina/coverall/commit/3fa56a13350ea90fa7040d9976775a603b1891be))
+    - Adjusting changelogs prior to release of try-to-release-me v0.1.6 ([`f00fa98`](https://github.com/tanyagalkina/coverall/commit/f00fa9895741e447f9db241e04880f1a3761e031))
+    - Comment ([`249a054`](https://github.com/tanyagalkina/coverall/commit/249a054a40488864bf31d7832c47417afad53b69))
 </details>
 
 ## v0.1.5 (2023-03-14)
