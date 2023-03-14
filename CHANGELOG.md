@@ -5,13 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## Unreleased
+## 0.2.0 (2023-03-14)
 
 <csr-id-392aecd02928b5bc16672dcb0ece1a6b587bcea1/>
 
 ### Other
 
  - <csr-id-392aecd02928b5bc16672dcb0ece1a6b587bcea1/> Just started with glint , hehe
+
+### Documentation (BREAKING)
+
+ - <csr-id-c70f72390c480dc17785c76b1254c042b1c6ac56/> updated changelog using cargo changelog command
 
 ### Bug Fixes
 
@@ -24,8 +28,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <csr-read-only-do-not-edit/>
 
- - 1 commit contributed to the release.
- - 1 commit was understood as [conventional](https://www.conventionalcommits.org).
+ - 2 commits contributed to the release.
+ - 2 commits were understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
 ### Commit Details
@@ -35,10 +39,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
+    - Updated changelog using cargo changelog command ([`c70f723`](https://github.com/tanyagalkina/coverall/commit/c70f72390c480dc17785c76b1254c042b1c6ac56))
     - Fixed booring comments ([`8cf84c0`](https://github.com/tanyagalkina/coverall/commit/8cf84c0fc9c80b23cf8a852d1845ca28c79a3880))
 </details>
 
 ## 0.1.8 (2023-03-14)
+
+<csr-id-6ec14f09b43c9151140ac972d1c335ec26b46839/>
+<csr-id-392aecd02928b5bc16672dcb0ece1a6b587bcea1/>
 
 ### Chore
 
