@@ -32,7 +32,7 @@ mod tests {
     }
 
 
-    // is cool ... glint
+    // is cool ... glint ... commitizen 
     #[test]
     fn go_to_this_func_test() {
         matches!(_go_to_this_func(), ());
