@@ -7,17 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### New Features
+
+ - <csr-id-9459a4d036addff939e920b540121e40272903d5/> the greatest feature ever
+
 ### Bug Fixes
 
  - <csr-id-f2982e5dc0fe5f225c46964cef137b0ad887bb1b/> example of fix message
 
-### Commit Statistics
-
-<csr-read-only-do-not-edit/>
-
- - 1 commit contributed to the release.
- - 1 commit was understood as [conventional](https://www.conventionalcommits.org).
- - 0 issues like '(#ID)' were seen in commit messages
 
 ### Commit Details
 
@@ -26,10 +23,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
+    - The greatest feature ever ([`9459a4d`](https://github.com/tanyagalkina/coverall/commit/9459a4d036addff939e920b540121e40272903d5))
     - Example of fix message ([`f2982e5`](https://github.com/tanyagalkina/coverall/commit/f2982e5dc0fe5f225c46964cef137b0ad887bb1b))
 </details>
 
 ## 0.1.7 (2023-03-14)
+
+<csr-id-ad9224079d42615c1e04472035be8f34a80462cf/>
 
 ### Chore
 
