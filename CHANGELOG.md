@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <csr-read-only-do-not-edit/>
 
- - 1 commit contributed to the release.
+ - 2 commits contributed to the release.
  - 0 commits were understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
@@ -22,10 +22,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
-    - Comment ([`249a054`](https://github.com/tanyagalkina/coverall/commit/249a054a40488864bf31d7832c47417afad53b69))
+    - Add changelog ([`225e81f`](https://github.com/tanyagalkina/coverall/commit/225e81fb3f9bd17673f82462aa7d4718dac918eb))
+    - Comment ([`3fa56a1`](https://github.com/tanyagalkina/coverall/commit/3fa56a13350ea90fa7040d9976775a603b1891be))
 </details>
 
 ## v0.1.5 (2023-03-14)
+
+<csr-id-6a1ddcc65f5c2793ce8e7f57b9f7d0458e2a2639/>
+<csr-id-3229f7fa24b004893fc3a67a14a477c1933b066c/>
+<csr-id-59980babf6cc4fb65bc0ec4c6a86fea1275f83a0/>
+<csr-id-2064f29a71e263775a4f5a3833dbba24db925c5d/>
+<csr-id-4c4050fd81b23503b8caba964d5203145a67d066/>
 
 ### Chore
 
