@@ -32,7 +32,7 @@ mod tests {
     }
 
 
-    // this everything is cool
+    // is cool ...
     #[test]
     fn go_to_this_func_test() {
         matches!(_go_to_this_func(), ());

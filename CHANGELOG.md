@@ -7,12 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### Bug Fixes
+
+ - <csr-id-f2982e5dc0fe5f225c46964cef137b0ad887bb1b/> example of fix message
+
 ### Commit Statistics
 
 <csr-read-only-do-not-edit/>
 
  - 1 commit contributed to the release.
- - 0 commits were understood as [conventional](https://www.conventionalcommits.org).
+ - 1 commit was understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
 ### Commit Details
@@ -22,6 +26,36 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
+    - Example of fix message ([`f2982e5`](https://github.com/tanyagalkina/coverall/commit/f2982e5dc0fe5f225c46964cef137b0ad887bb1b))
+</details>
+
+## 0.1.7 (2023-03-14)
+
+### Chore
+
+ - <csr-id-ad9224079d42615c1e04472035be8f34a80462cf/> Release try-to-release-me version 0.1.7
+
+### Bug Fixes
+
+ - <csr-id-bcd582ed66b6a9f74b7f0811ba632017215bba7c/> exmaple of gix message
+
+### Commit Statistics
+
+<csr-read-only-do-not-edit/>
+
+ - 3 commits contributed to the release.
+ - 2 commits were understood as [conventional](https://www.conventionalcommits.org).
+ - 0 issues like '(#ID)' were seen in commit messages
+
+### Commit Details
+
+<csr-read-only-do-not-edit/>
+
+<details><summary>view details</summary>
+
+ * **Uncategorized**
+    - Release try-to-release-me version 0.1.7 ([`ad92240`](https://github.com/tanyagalkina/coverall/commit/ad9224079d42615c1e04472035be8f34a80462cf))
+    - Exmaple of gix message ([`bcd582e`](https://github.com/tanyagalkina/coverall/commit/bcd582ed66b6a9f74b7f0811ba632017215bba7c))
     - Current vertion in manifest file is 0.1.6 ([`167c9d1`](https://github.com/tanyagalkina/coverall/commit/167c9d10f77fd0c8c6c48709040221e60374bf70))
 </details>
 
