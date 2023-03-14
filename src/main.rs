@@ -32,7 +32,7 @@ mod tests {
     }
 
 
-    // smart-release is cool have to see
+    // this everything is cool
     #[test]
     fn go_to_this_func_test() {
         matches!(_go_to_this_func(), ());
