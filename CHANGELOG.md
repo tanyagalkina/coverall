@@ -5,28 +5,6 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## Unreleased
-
-### New Features
-
- - <csr-id-9459a4d036addff939e920b540121e40272903d5/> the greatest feature ever
-
-### Bug Fixes
-
- - <csr-id-f2982e5dc0fe5f225c46964cef137b0ad887bb1b/> example of fix message
-
-
-### Commit Details
-
-<csr-read-only-do-not-edit/>
-
-<details><summary>view details</summary>
-
- * **Uncategorized**
-    - The greatest feature ever ([`9459a4d`](https://github.com/tanyagalkina/coverall/commit/9459a4d036addff939e920b540121e40272903d5))
-    - Example of fix message ([`f2982e5`](https://github.com/tanyagalkina/coverall/commit/f2982e5dc0fe5f225c46964cef137b0ad887bb1b))
-</details>
-
 ## 0.1.7 (2023-03-14)
 
 <csr-id-ad9224079d42615c1e04472035be8f34a80462cf/>
@@ -35,9 +13,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
  - <csr-id-ad9224079d42615c1e04472035be8f34a80462cf/> Release try-to-release-me version 0.1.7
 
+### New Features
+
+ - <csr-id-9459a4d036addff939e920b540121e40272903d5/> the greatest feature ever
+
+### Style
+
+ - <csr-id-46c761412ca7aa8abee4eb0223eab1ad90096c8f/> changelog
+
 ### Bug Fixes
 
  - <csr-id-bcd582ed66b6a9f74b7f0811ba632017215bba7c/> exmaple of gix message
+ - <csr-id-f2982e5dc0fe5f225c46964cef137b0ad887bb1b/> example of fix message
 
 ### Commit Statistics
 
@@ -54,9 +41,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
-    - Release try-to-release-me version 0.1.7 ([`ad92240`](https://github.com/tanyagalkina/coverall/commit/ad9224079d42615c1e04472035be8f34a80462cf))
-    - Exmaple of gix message ([`bcd582e`](https://github.com/tanyagalkina/coverall/commit/bcd582ed66b6a9f74b7f0811ba632017215bba7c))
-    - Current vertion in manifest file is 0.1.6 ([`167c9d1`](https://github.com/tanyagalkina/coverall/commit/167c9d10f77fd0c8c6c48709040221e60374bf70))
+    - Changelog ([`46c7614`](https://github.com/tanyagalkina/coverall/commit/46c761412ca7aa8abee4eb0223eab1ad90096c8f))
+    - The greatest feature ever ([`9459a4d`](https://github.com/tanyagalkina/coverall/commit/9459a4d036addff939e920b540121e40272903d5))
+    - Example of fix message ([`f2982e5`](https://github.com/tanyagalkina/coverall/commit/f2982e5dc0fe5f225c46964cef137b0ad887bb1b))
 </details>
 
 ## v0.1.6 (2023-03-14)
