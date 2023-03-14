@@ -31,6 +31,8 @@ mod tests {
         assert_eq!(_read_file_rm_last(file.path()), "1234abc")
     }
 
+
+    // added comment to this test
     #[test]
     fn go_to_this_func_test() {
         matches!(_go_to_this_func(), ());
