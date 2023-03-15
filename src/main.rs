@@ -20,6 +20,7 @@ fn main() {
 }
 
 // resolves comment
+// feat add
 #[cfg(test)]
 mod tests {
     use super::*;
