@@ -21,6 +21,7 @@ fn main() {
 
 // resolves comment
 // feat add
+// why you cannot read the commit messages done by cz ? and cannot retrieve bump level ?
 #[cfg(test)]
 mod tests {
     use super::*;
