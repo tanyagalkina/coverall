@@ -5,6 +5,31 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## Unreleased
+
+### New Features
+
+ - <csr-id-1f92ced3ee44a3aac32c4f0c8fbb72018b31e906/> add increadable feature
+   #424242
+
+### Commit Statistics
+
+<csr-read-only-do-not-edit/>
+
+ - 1 commit contributed to the release.
+ - 1 commit was understood as [conventional](https://www.conventionalcommits.org).
+ - 0 issues like '(#ID)' were seen in commit messages
+
+### Commit Details
+
+<csr-read-only-do-not-edit/>
+
+<details><summary>view details</summary>
+
+ * **Uncategorized**
+    - Add increadable feature ([`1f92ced`](https://github.com/tanyagalkina/coverall/commit/1f92ced3ee44a3aac32c4f0c8fbb72018b31e906))
+</details>
+
 ## 0.2.0 (2023-03-15)
 
 <csr-id-392aecd02928b5bc16672dcb0ece1a6b587bcea1/>
@@ -32,8 +57,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <csr-read-only-do-not-edit/>
 
- - 1 commit contributed to the release.
- - 1 commit was understood as [conventional](https://www.conventionalcommits.org).
+ - 5 commits contributed to the release.
+ - 3 commits were understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
 ### Commit Details
@@ -43,7 +68,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
+    - Bump try-to-release-me v0.2.0 ([`6cab071`](https://github.com/tanyagalkina/coverall/commit/6cab07166c5994f7b707face6134a672b7320f64))
     - Add positive comment ([`ad3f636`](https://github.com/tanyagalkina/coverall/commit/ad3f63688c3109a4079a429fc876ac0f24b2c986))
+    - Bump try-to-release-me v0.2.0 ([`b17b6b1`](https://github.com/tanyagalkina/coverall/commit/b17b6b1be664c71dedf29947277b19adad526018))
+    - Updated changelog using cargo changelog command ([`c70f723`](https://github.com/tanyagalkina/coverall/commit/c70f72390c480dc17785c76b1254c042b1c6ac56))
+    - Fixed booring comments ([`8cf84c0`](https://github.com/tanyagalkina/coverall/commit/8cf84c0fc9c80b23cf8a852d1845ca28c79a3880))
 </details>
 
 ## 0.1.8 (2023-03-14)
