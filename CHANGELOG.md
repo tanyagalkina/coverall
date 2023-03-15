@@ -23,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - <csr-id-ad3f63688c3109a4079a429fc876ac0f24b2c986/> add positive comment
  - <csr-id-1f92ced3ee44a3aac32c4f0c8fbb72018b31e906/> add increadable feature
    #424242
+ - <csr-id-fcf120bd6073ec0baa17589625a887562ff92764/> add incredible feature
 
 ### Documentation (BREAKING)
 
@@ -39,8 +40,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <csr-read-only-do-not-edit/>
 
- - 2 commits contributed to the release.
- - 2 commits were understood as [conventional](https://www.conventionalcommits.org).
+ - 1 commit contributed to the release.
+ - 1 commit was understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
 ### Commit Details
@@ -50,8 +51,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
-    - Update changelog written by cargo changlelog ([`7d1b029`](https://github.com/tanyagalkina/coverall/commit/7d1b02902567e6928fa4bb2db907f06c9e803f56))
-    - Add increadable feature ([`1f92ced`](https://github.com/tanyagalkina/coverall/commit/1f92ced3ee44a3aac32c4f0c8fbb72018b31e906))
+    - Add incredible feature ([`fcf120b`](https://github.com/tanyagalkina/coverall/commit/fcf120bd6073ec0baa17589625a887562ff92764))
 </details>
 
 ## 0.1.8 (2023-03-14)
