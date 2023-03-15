@@ -19,6 +19,7 @@ fn main() {
     println!("+++ exited with {:?} +++", 42);
 }
 
+// resolves comment
 #[cfg(test)]
 mod tests {
     use super::*;
